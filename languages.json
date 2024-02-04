@@ -467,6 +467,12 @@
       "line_comment": ["#", "~"],
       "extensions": ["cfg"]
     },
+    "Virgil": {
+      "name": "Virgil",
+      "line_comment": ["//"],
+      "multi_line_comments": [["/*", "*/"]],
+       "extensions": ["v3"]
+    },
     "Forth": {
       "line_comment": ["\\\\"],
       "multi_line_comments": [["( ", ")"]],
